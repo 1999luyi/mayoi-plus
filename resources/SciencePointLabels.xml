@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sciencePointLabels build="20282248" assemblySha256="8c419d19c86812497cabf9e29b2c87651156a2d705176dadbfec9b066747d15f">
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0060.unity3d" sha256="201ea408d7b15c98abb44351b41332bd4331164ca38479974cbbec7ba3d7b163"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0460.unity3d" sha256="0faf0c2d8f963b5ed6c58914b79ccd4ddf4bd9a2942586777f7281330dd6eac8"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0480.unity3d" sha256="934bad65f0af1d5ee96395863a8f194af5be6ceb25cad4408698d38ce3005159"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0490.unity3d" sha256="83d8b09c3ea5610de71dc444999f368a9be901b8633a76ca78719e1076463651"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm04a0.unity3d" sha256="3c653f9206d1aa84b034853cfcce0117b78e18d1d26ecc3ff1528de336d76dca"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm04b0.unity3d" sha256="0091118ed4db19934b023c23eadd00fb1cdcfb545712e6bf422e86a8fb782e51"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm04c0.unity3d" sha256="5f1a3a72b6d525a874ed51f17ef85ce889a9e852d237afd247b8c919acd9e8ac"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm04e0.unity3d" sha256="977885d8e8f0c6a00cd05adf3b9ff977899e158c01168bb9bb9830cf26d011cc"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0500.unity3d" sha256="d08af588db1e34c49bf91701b18e6ac3cb33a14f0d6a8a1bc4b26715f1f3f13c"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0510.unity3d" sha256="addf3a3dbf6fe46c8b1f11e043ced7e5502d950cca3ddff0761ee497b97f7ce9"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0520.unity3d" sha256="782dcbdf964657a2433487f4e1432ef5705ef08fa0d74b4c50302e67c82dc90f"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0540.unity3d" sha256="d8f4e45793429373889154013ad1a1fbe126faa187a67e1d1f8447c75b5d7a49"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0550.unity3d" sha256="6075761f0c8f0751a409815c326c31fa3d534577b35b08dfc117d5208fae97a4"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0560.unity3d" sha256="3796ff299ef3a8b005d6915acf536f3a0f7044c9893b0842a7dcfbe3dda6a959"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm05a0.unity3d" sha256="42f35b08f4640683c3b4e9219f6e74d9f3284a0f2b30d5412ee3776467827b73"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm05c0.unity3d" sha256="496ea347cc0e8d4a563ae9346b928e871ca13116f61d94d180027b97176c81cc"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm05d0.unity3d" sha256="2c5c385c3f8e524239de2de30a5b5b439696e5029327d14bfb898f3b026f589d"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm05f0.unity3d" sha256="35a8fd5e90e235d1dd334343b6dd99f29b3d281f30ad14d2a595e93bb6ea6465"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0600.unity3d" sha256="2c327eff277585a7d2e499f5735a0910c36e8948a5f5c15a811382fb6661e7b6"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0610.unity3d" sha256="e4d1080b5e946d09b339466e8d2fcdba9159254d8053ba7a81975922a517d8e7"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0620.unity3d" sha256="980f1c60bf78ef040169243ffe819e3371d1986079321818d26b593469127149"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0700.unity3d" sha256="06eafcbc86d178643d59c9d2b286e8587217d2525a9e19e63f998630e1688dec"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0730.unity3d" sha256="111fd0381916df11c8c380b1942790c538b729d6c4cc763564f6d63f67057216"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0820.unity3d" sha256="69948d8c9eccfc1344d73edbc6cbfe07028a6d0fa1cea0c7c3f9e88f6b1367d6"/>
+  <source path="PWAAT_Data/StreamingAssets/GS1/science/itm0830.unity3d" sha256="0b03c7c7ed7d43ff752cd15da66d29deab9704b517411e0b75caed2a29da5d27"/>
+  <point object="0" bundle="itm0060" hit="itm0062" index="0" review="badge-number">
+    <model name="itm0060"/>
+    <model name="itm0060b"/>
+    <model name="itm0060f"/>
+    <model name="itm0060g"/>
+    <model name="itm0060k"/>
+    <model name="itm0060l"/>
+    <model name="itm0060u"/>
+    <text culture="zh-Hans">徽章背面的编号</text>
+    <text culture="zh-Hant">徽章背面的編號</text>
+    <text culture="ja">バッジ裏面の番号</text>
+    <text culture="en">Number on the back of the badge</text>
+    <text culture="fr">Numéro au dos du badge</text>
+    <text culture="de">Nummer auf der Rückseite der Marke</text>
+    <text culture="ko">배지 뒷면의 번호</text>
+    <text culture="pt-BR">Número no verso do distintivo</text>
+    <text culture="es-419">Número en el reverso de la insignia</text>
+  </point>
+  <point object="0" bundle="itm0060" hit="itm0062" index="1" review="badge-lettering">
+    <model name="itm0060"/>
+    <model name="itm0060b"/>
+    <model name="itm0060f"/>
+    <model name="itm0060g"/>
+    <model name="itm0060k"/>
+    <model name="itm0060l"/>
+    <model name="itm0060u"/>
+    <text culture="zh-Hans">徽章背面的刻字</text>
+    <text culture="zh-Hant">徽章背面的刻字</text>
+    <text culture="ja">バッジ裏面の刻印</text>
+    <text culture="en">Engraving on the back of the badge</text>
+    <text culture="fr">Inscription au dos du badge</text>
+    <text culture="de">Gravur auf der Rückseite der Marke</text>
+    <text culture="ko">배지 뒷면의 각인</text>
+    <text culture="pt-BR">Inscrição no verso do distintivo</text>
+    <text culture="es-419">Inscripción en el reverso de la insignia</text>
+  </point>
+  <point object="0" bundle="itm0060" hit="itm0062" index="2" review="badge-lettering">
+    <model name="itm0060"/>
+    <model name="itm0060b"/>
+    <model name="itm0060f"/>
+    <model name="itm0060g"/>
+    <model name="itm0060k"/>
+    <model name="itm0060l"/>
+    <model name="itm0060u"/>
+    <text culture="zh-Hans">徽章背面的刻字</text>
+    <text culture="zh-Hant">徽章背面的刻字</text>
+    <text culture="ja">バッジ裏面の刻印</text>
+    <text culture="en">Engraving on the back of the badge</text>
+    <text culture="fr">Inscription au dos du badge</text>
+    <text culture="de">Gravur auf der Rückseite der Marke</text>
+    <text culture="ko">배지 뒷면의 각인</text>
+    <text culture="pt-BR">Inscrição no verso do distintivo</text>
+    <text culture="es-419">Inscripción en el reverso de la insignia</text>
+  </point>
+  <point object="0" bundle="itm0060" hit="itm0062" index="3" review="badge-lettering">
+    <model name="itm0060"/>
+    <model name="itm0060b"/>
+    <model name="itm0060f"/>
+    <model name="itm0060g"/>
+    <model name="itm0060k"/>
+    <model name="itm0060l"/>
+    <model name="itm0060u"/>
+    <text culture="zh-Hans">徽章背面的刻字</text>
+    <text culture="zh-Hant">徽章背面的刻字</text>
+    <text culture="ja">バッジ裏面の刻印</text>
+    <text culture="en">Engraving on the back of the badge</text>
+    <text culture="fr">Inscription au dos du badge</text>
+    <text culture="de">Gravur auf der Rückseite der Marke</text>
+    <text culture="ko">배지 뒷면의 각인</text>
+    <text culture="pt-BR">Inscrição no verso do distintivo</text>
+    <text culture="es-419">Inscripción en el reverso de la insignia</text>
+  </point>
+  <point object="1" bundle="itm0460" hit="itm0462" index="0" review="wallet-clasp">
+    <model name="itm0463"/>
+    <model name="itm0463b"/>
+    <model name="itm0463f"/>
+    <model name="itm0463g"/>
+    <model name="itm0463k"/>
+    <model name="itm0463l"/>
+    <model name="itm0463s"/>
+    <model name="itm0463t"/>
+    <model name="itm0463u"/>
+    <text culture="zh-Hans">钱包扣子</text>
+    <text culture="zh-Hant">錢包扣子</text>
+    <text culture="ja">財布の留め具</text>
+    <text culture="en">Wallet clasp</text>
+    <text culture="fr">Fermoir du portefeuille</text>
+    <text culture="de">Verschluss der Brieftasche</text>
+    <text culture="ko">지갑 잠금장치</text>
+    <text culture="pt-BR">Fecho da carteira</text>
+    <text culture="es-419">Broche de la cartera</text>
+  </point>
+  <point object="2" bundle="itm0460" hit="itm0467" index="1" review="wallet-pocket">
+    <model name="itm0465"/>
+    <text culture="zh-Hans">钱包内侧的卡片夹层</text>
+    <text culture="zh-Hant">錢包內側的卡片夾層</text>
+    <text culture="ja">財布内側のカード入れ</text>
+    <text culture="en">Card pocket inside the wallet</text>
+    <text culture="fr">Poche à cartes du portefeuille</text>
+    <text culture="de">Kartenfach in der Brieftasche</text>
+    <text culture="ko">지갑 안쪽 카드 수납칸</text>
+    <text culture="pt-BR">Compartimento de cartões da carteira</text>
+    <text culture="es-419">Compartimento para tarjetas de la cartera</text>
+  </point>
+  <point object="3" bundle="itm0480" hit="atari" index="0" review="card-text">
+    <model name="itm0480"/>
+    <model name="itm0480b"/>
+    <model name="itm0480f"/>
+    <model name="itm0480g"/>
+    <model name="itm0480k"/>
+    <model name="itm0480l"/>
+    <model name="itm0480s"/>
+    <model name="itm0480t"/>
+    <model name="itm0480u"/>
+    <text culture="zh-Hans">卡片上的文字区域</text>
+    <text culture="zh-Hant">卡片上的文字區域</text>
+    <text culture="ja">カードの文字部分</text>
+    <text culture="en">Text area on the card</text>
+    <text culture="fr">Zone de texte de la carte</text>
+    <text culture="de">Textbereich auf der Karte</text>
+    <text culture="ko">카드의 글자 부분</text>
+    <text culture="pt-BR">Área de texto do cartão</text>
+    <text culture="es-419">Zona de texto de la tarjeta</text>
+  </point>
+  <point object="4" bundle="itm0490" hit="atari" index="0" review="knife-stain">
+    <model name="itm0490"/>
+    <text culture="zh-Hans">刀刃上的红色斑迹</text>
+    <text culture="zh-Hant">刀刃上的紅色斑跡</text>
+    <text culture="ja">刃の赤い染み</text>
+    <text culture="en">Red stains on the blade</text>
+    <text culture="fr">Taches rouges sur la lame</text>
+    <text culture="de">Rote Flecken auf der Klinge</text>
+    <text culture="ko">칼날의 붉은 얼룩</text>
+    <text culture="pt-BR">Manchas vermelhas na lâmina</text>
+    <text culture="es-419">Manchas rojas en la hoja</text>
+  </point>
+  <point object="5" bundle="itm04a0" hit="atari" index="0" review="paper-print">
+    <model name="itm04a0"/>
+    <model name="itm04a0b"/>
+    <model name="itm04a0f"/>
+    <model name="itm04a0g"/>
+    <model name="itm04a0k"/>
+    <model name="itm04a0l"/>
+    <model name="itm04a0s"/>
+    <model name="itm04a0t"/>
+    <model name="itm04a0u"/>
+    <text culture="zh-Hans">纸张上的印字区域</text>
+    <text culture="zh-Hant">紙張上的印字區域</text>
+    <text culture="ja">紙の印字部分</text>
+    <text culture="en">Printed area on the paper</text>
+    <text culture="fr">Zone imprimée du papier</text>
+    <text culture="de">Bedruckter Bereich des Papiers</text>
+    <text culture="ko">종이에 인쇄된 부분</text>
+    <text culture="pt-BR">Área impressa do papel</text>
+    <text culture="es-419">Zona impresa del papel</text>
+  </point>
+  <point object="6" bundle="itm04b0" hit="atari" index="0" review="award-bottom">
+    <model name="itm04b0"/>
+    <text culture="zh-Hans">奖杯底座的底面</text>
+    <text culture="zh-Hant">獎盃底座的底面</text>
+    <text culture="ja">トロフィー台座の底面</text>
+    <text culture="en">Underside of the trophy base</text>
+    <text culture="fr">Dessous du socle du trophée</text>
+    <text culture="de">Unterseite des Pokalsockels</text>
+    <text culture="ko">트로피 받침대의 바닥면</text>
+    <text culture="pt-BR">Parte inferior da base do troféu</text>
+    <text culture="es-419">Parte inferior de la base del trofeo</text>
+  </point>
+  <point object="7" bundle="itm04c0" hit="atari" index="0" review="envelope-mark">
+    <model name="itm04c0"/>
+    <model name="itm04c0b"/>
+    <model name="itm04c0f"/>
+    <model name="itm04c0g"/>
+    <model name="itm04c0k"/>
+    <model name="itm04c0l"/>
+    <model name="itm04c0s"/>
+    <model name="itm04c0t"/>
+    <model name="itm04c0u"/>
+    <text culture="zh-Hans">信封上的黑色涂写</text>
+    <text culture="zh-Hant">信封上的黑色塗寫</text>
+    <text culture="ja">封筒の黒い書き込み</text>
+    <text culture="en">Black markings on the envelope</text>
+    <text culture="fr">Marques noires sur l’enveloppe</text>
+    <text culture="de">Schwarze Markierungen auf dem Umschlag</text>
+    <text culture="ko">봉투의 검은 낙서</text>
+    <text culture="pt-BR">Marcas pretas no envelope</text>
+    <text culture="es-419">Marcas negras en el sobre</text>
+  </point>
+  <point object="8" bundle="itm04e0" hit="itm04e2" index="0" review="phone-side">
+    <model name="itm04e02"/>
+    <text culture="zh-Hans">手机侧面的蓝色按钮</text>
+    <text culture="zh-Hant">手機側面的藍色按鈕</text>
+    <text culture="ja">携帯電話側面の青いボタン</text>
+    <text culture="en">Blue button on the side of the phone</text>
+    <text culture="fr">Bouton bleu sur le côté du téléphone</text>
+    <text culture="de">Blaue Taste an der Seite des Handys</text>
+    <text culture="ko">휴대전화 옆면의 파란 버튼</text>
+    <text culture="pt-BR">Botão azul na lateral do celular</text>
+    <text culture="es-419">Botón azul en el costado del celular</text>
+  </point>
+  <point object="8" bundle="itm04e0" hit="itm04e2" index="3" review="phone-strap">
+    <model name="itm04e02"/>
+    <text culture="zh-Hans">手机挂绳</text>
+    <text culture="zh-Hant">手機掛繩</text>
+    <text culture="ja">携帯電話のストラップ</text>
+    <text culture="en">Phone strap</text>
+    <text culture="fr">Dragonne du téléphone</text>
+    <text culture="de">Handyschlaufe</text>
+    <text culture="ko">휴대전화 손목줄</text>
+    <text culture="pt-BR">Alça do celular</text>
+    <text culture="es-419">Correa del celular</text>
+  </point>
+  <point object="9" bundle="itm04e0" hit="itm04e3" index="1" review="phone-key">
+    <model name="itm04e03"/>
+    <text culture="zh-Hans">手机键盘上的蓝色按钮</text>
+    <text culture="zh-Hant">手機鍵盤上的藍色按鈕</text>
+    <text culture="ja">携帯電話キー面の青いボタン</text>
+    <text culture="en">Blue button on the phone keypad</text>
+    <text culture="fr">Bouton bleu du clavier du téléphone</text>
+    <text culture="de">Blaue Taste auf dem Handy-Tastenfeld</text>
+    <text culture="ko">휴대전화 키패드의 파란 버튼</text>
+    <text culture="pt-BR">Botão azul no teclado do celular</text>
+    <text culture="es-419">Botón azul en el teclado del celular</text>
+  </point>
+  <point object="9" bundle="itm04e0" hit="itm04e3" index="2" review="phone-strap">
+    <model name="itm04e03"/>
+    <text culture="zh-Hans">手机挂绳</text>
+    <text culture="zh-Hant">手機掛繩</text>
+    <text culture="ja">携帯電話のストラップ</text>
+    <text culture="en">Phone strap</text>
+    <text culture="fr">Dragonne du téléphone</text>
+    <text culture="de">Handyschlaufe</text>
+    <text culture="ko">휴대전화 손목줄</text>
+    <text culture="pt-BR">Alça do celular</text>
+    <text culture="es-419">Correa del celular</text>
+  </point>
+  <point object="10" bundle="itm0500" hit="atari" index="0" review="shoe-upper">
+    <model name="itm0500"/>
+    <text culture="zh-Hans">鞋面上的红色斑迹</text>
+    <text culture="zh-Hant">鞋面上的紅色斑跡</text>
+    <text culture="ja">靴の甲の赤い染み</text>
+    <text culture="en">Red stains on the shoe upper</text>
+    <text culture="fr">Taches rouges sur le dessus de la chaussure</text>
+    <text culture="de">Rote Flecken auf dem Schuhoberteil</text>
+    <text culture="ko">구두 윗부분의 붉은 얼룩</text>
+    <text culture="pt-BR">Manchas vermelhas na parte de cima do sapato</text>
+    <text culture="es-419">Manchas rojas en la parte superior del zapato</text>
+  </point>
+  <point object="10" bundle="itm0500" hit="atari" index="1" review="shoe-heel">
+    <model name="itm0500"/>
+    <text culture="zh-Hans">鞋跟</text>
+    <text culture="zh-Hant">鞋跟</text>
+    <text culture="ja">靴のかかと</text>
+    <text culture="en">Shoe heel</text>
+    <text culture="fr">Talon de la chaussure</text>
+    <text culture="de">Schuhabsatz</text>
+    <text culture="ko">구두 굽</text>
+    <text culture="pt-BR">Salto do sapato</text>
+    <text culture="es-419">Tacón del zapato</text>
+  </point>
+  <point object="10" bundle="itm0500" hit="atari" index="2" review="shoe-sole">
+    <model name="itm0500"/>
+    <text culture="zh-Hans">鞋底的红色斑迹</text>
+    <text culture="zh-Hant">鞋底的紅色斑跡</text>
+    <text culture="ja">靴底の赤い染み</text>
+    <text culture="en">Red stains on the sole</text>
+    <text culture="fr">Taches rouges sur la semelle</text>
+    <text culture="de">Rote Flecken auf der Schuhsohle</text>
+    <text culture="ko">구두 밑창의 붉은 얼룩</text>
+    <text culture="pt-BR">Manchas vermelhas na sola</text>
+    <text culture="es-419">Manchas rojas en la suela</text>
+  </point>
+  <point object="12" bundle="itm0520" hit="itm0523" index="0" review="evidence-tag">
+    <model name="itm0521"/>
+    <text culture="zh-Hans">悬挂的纸质标签</text>
+    <text culture="zh-Hant">懸掛的紙質標籤</text>
+    <text culture="ja">ぶら下がった紙のタグ</text>
+    <text culture="en">Hanging paper tag</text>
+    <text culture="fr">Étiquette en papier suspendue</text>
+    <text culture="de">Anhängendes Papieretikett</text>
+    <text culture="ko">매달린 종이 꼬리표</text>
+    <text culture="pt-BR">Etiqueta de papel pendurada</text>
+    <text culture="es-419">Etiqueta de papel colgante</text>
+  </point>
+  <point object="12" bundle="itm0520" hit="itm0523" index="1" review="knife-handle">
+    <model name="itm0521"/>
+    <text culture="zh-Hans">刀柄靠近护手的部位</text>
+    <text culture="zh-Hant">刀柄靠近護手的部位</text>
+    <text culture="ja">つば付近のナイフの柄</text>
+    <text culture="en">Knife handle near the guard</text>
+    <text culture="fr">Manche du couteau près de la garde</text>
+    <text culture="de">Messergriff nahe der Parierstange</text>
+    <text culture="ko">칼자루에서 손막이 가까운 부분</text>
+    <text culture="pt-BR">Cabo da faca perto da guarda</text>
+    <text culture="es-419">Mango del cuchillo junto a la guarda</text>
+  </point>
+  <point object="13" bundle="itm0520" hit="itm0524" index="0" review="evidence-tag">
+    <model name="itm0521"/>
+    <text culture="zh-Hans">悬挂的纸质标签</text>
+    <text culture="zh-Hant">懸掛的紙質標籤</text>
+    <text culture="ja">ぶら下がった紙のタグ</text>
+    <text culture="en">Hanging paper tag</text>
+    <text culture="fr">Étiquette en papier suspendue</text>
+    <text culture="de">Anhängendes Papieretikett</text>
+    <text culture="ko">매달린 종이 꼬리표</text>
+    <text culture="pt-BR">Etiqueta de papel pendurada</text>
+    <text culture="es-419">Etiqueta de papel colgante</text>
+  </point>
+  <point object="14" bundle="itm0540" hit="atari" index="0" review="spray-bottom">
+    <model name="itm0540"/>
+    <model name="itm0540b"/>
+    <model name="itm0540k"/>
+    <model name="itm0540l"/>
+    <model name="itm0540s"/>
+    <model name="itm0540t"/>
+    <model name="itm0540u"/>
+    <text culture="zh-Hans">喷雾瓶底部</text>
+    <text culture="zh-Hant">噴霧瓶底部</text>
+    <text culture="ja">スプレーボトルの底</text>
+    <text culture="en">Bottom of the spray bottle</text>
+    <text culture="fr">Fond du vaporisateur</text>
+    <text culture="de">Boden der Sprühflasche</text>
+    <text culture="ko">분무기 바닥</text>
+    <text culture="pt-BR">Fundo do borrifador</text>
+    <text culture="es-419">Base del atomizador</text>
+  </point>
+  <point object="15" bundle="itm0550" hit="itm0551" index="0" review="box-label">
+    <model name="itm0550"/>
+    <model name="itm0550b"/>
+    <model name="itm0550f"/>
+    <model name="itm0550k"/>
+    <model name="itm0550l"/>
+    <model name="itm0550s"/>
+    <model name="itm0550t"/>
+    <model name="itm0550u"/>
+    <text culture="zh-Hans">餐盒底面的标签</text>
+    <text culture="zh-Hant">餐盒底面的標籤</text>
+    <text culture="ja">弁当箱の底のラベル</text>
+    <text culture="en">Label on the bottom of the meal box</text>
+    <text culture="fr">Étiquette sous la boîte-repas</text>
+    <text culture="de">Etikett unter der Essensschachtel</text>
+    <text culture="ko">도시락 바닥의 라벨</text>
+    <text culture="pt-BR">Etiqueta no fundo da marmita</text>
+    <text culture="es-419">Etiqueta en la base de la caja de comida</text>
+  </point>
+  <point object="15" bundle="itm0550" hit="itm0551" index="1" review="box-food">
+    <model name="itm0550"/>
+    <model name="itm0550b"/>
+    <model name="itm0550f"/>
+    <model name="itm0550k"/>
+    <model name="itm0550l"/>
+    <model name="itm0550s"/>
+    <model name="itm0550t"/>
+    <model name="itm0550u"/>
+    <text culture="zh-Hans">餐盒里的牛排和米饭</text>
+    <text culture="zh-Hant">餐盒裡的牛排和米飯</text>
+    <text culture="ja">弁当箱のステーキとご飯</text>
+    <text culture="en">Steak and rice in the meal box</text>
+    <text culture="fr">Steak et riz dans la boîte-repas</text>
+    <text culture="de">Steak und Reis in der Essensschachtel</text>
+    <text culture="ko">도시락 안의 스테이크와 밥</text>
+    <text culture="pt-BR">Bife e arroz na marmita</text>
+    <text culture="es-419">Bistec y arroz en la caja de comida</text>
+  </point>
+  <point object="16" bundle="itm0560" hit="itm0562" index="0" review="evidence-tag">
+    <model name="itm0560"/>
+    <text culture="zh-Hans">悬挂的纸质标签</text>
+    <text culture="zh-Hant">懸掛的紙質標籤</text>
+    <text culture="ja">ぶら下がった紙のタグ</text>
+    <text culture="en">Hanging paper tag</text>
+    <text culture="fr">Étiquette en papier suspendue</text>
+    <text culture="de">Anhängendes Papieretikett</text>
+    <text culture="ko">매달린 종이 꼬리표</text>
+    <text culture="pt-BR">Etiqueta de papel pendurada</text>
+    <text culture="es-419">Etiqueta de papel colgante</text>
+  </point>
+  <point object="17" bundle="itm05a0" hit="itm05a1" index="0" review="vase-stain">
+    <model name="itm05a0"/>
+    <model name="itm05a0k"/>
+    <model name="itm05a0u"/>
+    <text culture="zh-Hans">花瓶瓶身上的红色斑迹</text>
+    <text culture="zh-Hant">花瓶瓶身上的紅色斑跡</text>
+    <text culture="ja">花瓶の胴の赤い染み</text>
+    <text culture="en">Red stains on the vase body</text>
+    <text culture="fr">Taches rouges sur le corps du vase</text>
+    <text culture="de">Rote Flecken am Vasenkörper</text>
+    <text culture="ko">꽃병 몸통의 붉은 얼룩</text>
+    <text culture="pt-BR">Manchas vermelhas no corpo do vaso</text>
+    <text culture="es-419">Manchas rojas en el cuerpo del jarrón</text>
+  </point>
+  <point object="17" bundle="itm05a0" hit="itm05a1" index="1" review="vase-bottom">
+    <model name="itm05a0"/>
+    <model name="itm05a0k"/>
+    <model name="itm05a0u"/>
+    <text culture="zh-Hans">花瓶底部</text>
+    <text culture="zh-Hant">花瓶底部</text>
+    <text culture="ja">花瓶の底</text>
+    <text culture="en">Bottom of the vase</text>
+    <text culture="fr">Fond du vase</text>
+    <text culture="de">Boden der Vase</text>
+    <text culture="ko">꽃병 바닥</text>
+    <text culture="pt-BR">Fundo do vaso</text>
+    <text culture="es-419">Base del jarrón</text>
+  </point>
+  <point object="18" bundle="itm05a0" hit="itm05a1" index="0" review="vase-stain">
+    <model name="itm05a2"/>
+    <model name="itm05a2k"/>
+    <model name="itm05a2u"/>
+    <text culture="zh-Hans">花瓶瓶身上的红色斑迹</text>
+    <text culture="zh-Hant">花瓶瓶身上的紅色斑跡</text>
+    <text culture="ja">花瓶の胴の赤い染み</text>
+    <text culture="en">Red stains on the vase body</text>
+    <text culture="fr">Taches rouges sur le corps du vase</text>
+    <text culture="de">Rote Flecken am Vasenkörper</text>
+    <text culture="ko">꽃병 몸통의 붉은 얼룩</text>
+    <text culture="pt-BR">Manchas vermelhas no corpo do vaso</text>
+    <text culture="es-419">Manchas rojas en el cuerpo del jarrón</text>
+  </point>
+  <point object="18" bundle="itm05a0" hit="itm05a1" index="1" review="vase-bottom">
+    <model name="itm05a2"/>
+    <model name="itm05a2k"/>
+    <model name="itm05a2u"/>
+    <text culture="zh-Hans">花瓶底部</text>
+    <text culture="zh-Hant">花瓶底部</text>
+    <text culture="ja">花瓶の底</text>
+    <text culture="en">Bottom of the vase</text>
+    <text culture="fr">Fond du vase</text>
+    <text culture="de">Boden der Vase</text>
+    <text culture="ko">꽃병 바닥</text>
+    <text culture="pt-BR">Fundo do vaso</text>
+    <text culture="es-419">Base del jarrón</text>
+  </point>
+  <point object="19" bundle="itm05c0" hit="atari" index="0" review="evidence-tag">
+    <model name="itm05c0"/>
+    <text culture="zh-Hans">悬挂的纸质标签</text>
+    <text culture="zh-Hant">懸掛的紙質標籤</text>
+    <text culture="ja">ぶら下がった紙のタグ</text>
+    <text culture="en">Hanging paper tag</text>
+    <text culture="fr">Étiquette en papier suspendue</text>
+    <text culture="de">Anhängendes Papieretikett</text>
+    <text culture="ko">매달린 종이 꼬리표</text>
+    <text culture="pt-BR">Etiqueta de papel pendurada</text>
+    <text culture="es-419">Etiqueta de papel colgante</text>
+  </point>
+  <point object="22" bundle="itm0600" hit="itm0601" index="0" review="paper-text">
+    <model name="itm0600"/>
+    <model name="itm0600f"/>
+    <model name="itm0600k"/>
+    <model name="itm0600u"/>
+    <text culture="zh-Hans">纸上的文字区域</text>
+    <text culture="zh-Hant">紙上的文字區域</text>
+    <text culture="ja">紙の文字部分</text>
+    <text culture="en">Text area on the paper</text>
+    <text culture="fr">Zone de texte du papier</text>
+    <text culture="de">Textbereich auf dem Papier</text>
+    <text culture="ko">종이의 글자 부분</text>
+    <text culture="pt-BR">Área de texto no papel</text>
+    <text culture="es-419">Zona de texto del papel</text>
+  </point>
+  <point object="23" bundle="itm0610" hit="atari" index="0" review="card-text">
+    <model name="itm0610"/>
+    <model name="itm0610b"/>
+    <model name="itm0610f"/>
+    <model name="itm0610g"/>
+    <model name="itm0610k"/>
+    <model name="itm0610l"/>
+    <model name="itm0610s"/>
+    <model name="itm0610t"/>
+    <model name="itm0610u"/>
+    <text culture="zh-Hans">卡片上的文字区域</text>
+    <text culture="zh-Hant">卡片上的文字區域</text>
+    <text culture="ja">カードの文字部分</text>
+    <text culture="en">Text area on the card</text>
+    <text culture="fr">Zone de texte de la carte</text>
+    <text culture="de">Textbereich auf der Karte</text>
+    <text culture="ko">카드의 글자 부분</text>
+    <text culture="pt-BR">Área de texto do cartão</text>
+    <text culture="es-419">Zona de texto de la tarjeta</text>
+  </point>
+  <point object="24" bundle="itm0620" hit="itm0621" index="0" review="cloth">
+    <model name="itm0620"/>
+    <text culture="zh-Hans">布片表面</text>
+    <text culture="zh-Hant">布片表面</text>
+    <text culture="ja">布切れの表面</text>
+    <text culture="en">Surface of the cloth</text>
+    <text culture="fr">Surface du morceau de tissu</text>
+    <text culture="de">Oberfläche des Stoffstücks</text>
+    <text culture="ko">천 조각 표면</text>
+    <text culture="pt-BR">Superfície do pedaço de tecido</text>
+    <text culture="es-419">Superficie del trozo de tela</text>
+  </point>
+  <point object="25" bundle="itm0700" hit="atari" index="0" review="doc-top">
+    <model name="itm0700"/>
+    <text culture="zh-Hans">文件堆最上面的封面</text>
+    <text culture="zh-Hant">文件堆最上面的封面</text>
+    <text culture="ja">書類の山の一番上の表紙</text>
+    <text culture="en">Top cover of the document stack</text>
+    <text culture="fr">Couverture au sommet de la pile de documents</text>
+    <text culture="de">Oberstes Deckblatt des Aktenstapels</text>
+    <text culture="ko">서류 더미 맨 위의 표지</text>
+    <text culture="pt-BR">Capa no topo da pilha de documentos</text>
+    <text culture="es-419">Portada superior de la pila de documentos</text>
+  </point>
+  <point object="25" bundle="itm0700" hit="atari" index="1" review="doc-bottom">
+    <model name="itm0700"/>
+    <text culture="zh-Hans">文件堆底部露出的纸条</text>
+    <text culture="zh-Hant">文件堆底部露出的紙條</text>
+    <text culture="ja">書類の山の下から出ている紙片</text>
+    <text culture="en">Paper slip protruding from the bottom of the stack</text>
+    <text culture="fr">Bande de papier dépassant du bas de la pile</text>
+    <text culture="de">Unten aus dem Aktenstapel ragender Zettel</text>
+    <text culture="ko">서류 더미 아래로 튀어나온 쪽지</text>
+    <text culture="pt-BR">Tira de papel saindo da parte inferior da pilha</text>
+    <text culture="es-419">Tira de papel que sobresale de la base de la pila</text>
+  </point>
+  <point object="26" bundle="itm0730" hit="itm0730a" index="0" review="doc-sheet">
+    <model name="itm0730"/>
+    <text culture="zh-Hans">文件纸张表面</text>
+    <text culture="zh-Hant">文件紙張表面</text>
+    <text culture="ja">書類の紙面</text>
+    <text culture="en">Surface of the document sheet</text>
+    <text culture="fr">Surface de la feuille du document</text>
+    <text culture="de">Oberfläche des Dokuments</text>
+    <text culture="ko">서류의 종이 표면</text>
+    <text culture="pt-BR">Superfície da folha do documento</text>
+    <text culture="es-419">Superficie de la hoja del documento</text>
+  </point>
+  <point object="27" bundle="itm0820" hit="itm0820a" index="0" review="book-cover">
+    <model name="itm0820"/>
+    <model name="itm0820b"/>
+    <model name="itm0820f"/>
+    <model name="itm0820g"/>
+    <model name="itm0820k"/>
+    <model name="itm0820l"/>
+    <model name="itm0820s"/>
+    <model name="itm0820t"/>
+    <model name="itm0820u"/>
+    <text culture="zh-Hans">书的封面与封底</text>
+    <text culture="zh-Hant">書的封面與封底</text>
+    <text culture="ja">本の表紙と裏表紙</text>
+    <text culture="en">Front and back covers of the book</text>
+    <text culture="fr">Première et quatrième de couverture du livre</text>
+    <text culture="de">Vorderer und hinterer Buchdeckel</text>
+    <text culture="ko">책의 앞표지와 뒤표지</text>
+    <text culture="pt-BR">Capa e contracapa do livro</text>
+    <text culture="es-419">Portada y contraportada del libro</text>
+  </point>
+  <point object="29" bundle="itm0830" hit="itm0830a" index="0" review="book-cover">
+    <model name="itm0830"/>
+    <model name="itm0830b"/>
+    <model name="itm0830f"/>
+    <model name="itm0830g"/>
+    <model name="itm0830k"/>
+    <model name="itm0830l"/>
+    <model name="itm0830s"/>
+    <model name="itm0830t"/>
+    <model name="itm0830u"/>
+    <text culture="zh-Hans">书的封面与封底</text>
+    <text culture="zh-Hant">書的封面與封底</text>
+    <text culture="ja">本の表紙と裏表紙</text>
+    <text culture="en">Front and back covers of the book</text>
+    <text culture="fr">Première et quatrième de couverture du livre</text>
+    <text culture="de">Vorderer und hinterer Buchdeckel</text>
+    <text culture="ko">책의 앞표지와 뒤표지</text>
+    <text culture="pt-BR">Capa e contracapa do livro</text>
+    <text culture="es-419">Portada y contraportada del libro</text>
+  </point>
+</sciencePointLabels>

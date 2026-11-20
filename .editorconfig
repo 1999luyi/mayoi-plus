@@ -1,0 +1,57 @@
+# 编辑器格式约定：https://editorconfig.org
+# 各编辑器使用相同缩进与编码。
+root = true
+
+# 默认格式
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# C# 代码与样板
+[*.{cs,cs.template}]
+indent_size = 4
+csharp_new_line_before_open_brace = all
+csharp_new_line_before_else = true
+csharp_new_line_before_catch = true
+csharp_new_line_before_finally = true
+csharp_style_var_for_built_in_types = false:suggestion
+csharp_style_var_when_type_is_apparent = true:suggestion
+dotnet_sort_system_directives_first = true
+
+# XML 与项目文件
+[*.{xml,csproj,csproj.template,props,targets}]
+indent_size = 2
+
+# 中文文档及其样板
+[*.{md,md.template}]
+trim_trailing_whitespace = false
+indent_size = 2
+
+# JSON 与配置
+[*.{json,json.template,yml,yaml}]
+indent_size = 2
+
+# PowerShell 及样板
+[*.{ps1,ps1.template}]
+indent_size = 4
+
+# Python
+[*.py]
+indent_size = 4
+
+# GDScript
+[*.gd]
+indent_style = tab
+indent_size = 4
+
+# C++
+[*.{cpp,h,hpp,cc}]
+indent_size = 4
+
+# Git 的 shell 钩子必须保留 LF
+[scripts/hooks/pre-commit]
+end_of_line = lf

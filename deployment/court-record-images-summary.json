@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "build": "20282248",
+  "iconImages": 618,
+  "detailImages": 519,
+  "imageIdentities": 1137,
+  "hintIdentities": 720,
+  "sourceFiles": 1155,
+  "cultures": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "ko",
+    "zh-Hans",
+    "zh-Hant",
+    "pt-BR",
+    "es-419"
+  ],
+  "resourceSha256": "f2ac51df00abe632e4fd0070f282ec671c5a4d8b25d057f45d53df8dd1e8c0ff",
+  "nativeRecords": 576,
+  "nonzeroBackgrounds": 96,
+  "userDrafts": 14,
+  "gameExecuted": false
+}

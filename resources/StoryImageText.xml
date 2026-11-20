@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<images>
+  <image path="/GS1/etc/" bundle="etc00a" sprite="etc00a">異議あり！</image>
+  <image path="/GS1/etc/" bundle="etc00ab" sprite="etc00ab">Protesto!</image>
+  <image path="/GS1/etc/" bundle="etc00ag" sprite="etc00ag">Einspruch!</image>
+  <image path="/GS1/etc/" bundle="etc00ak" sprite="etc00ak">이의 있음!</image>
+  <image path="/GS1/etc/" bundle="etc00al" sprite="etc00al">¡Objeción!</image>
+  <image path="/GS1/etc/" bundle="etc00as" sprite="etc00as">异议！</image>
+  <image path="/GS1/etc/" bundle="etc00at" sprite="etc00at">異議！</image>
+  <image path="/GS1/etc/" bundle="etc00au" sprite="etc00au">Objection!</image>
+  <image path="/GS1/etc/" bundle="etc00b" sprite="etc00b">待った！</image>
+  <image path="/GS1/etc/" bundle="etc00bb" sprite="etc00bb">Calma lá!</image>
+  <image path="/GS1/etc/" bundle="etc00bf" sprite="etc00bf">Un instant!</image>
+  <image path="/GS1/etc/" bundle="etc00bg" sprite="etc00bg">Moment mal!</image>
+  <image path="/GS1/etc/" bundle="etc00bk" sprite="etc00bk">잠깐!</image>
+  <image path="/GS1/etc/" bundle="etc00bl" sprite="etc00bl">¡Un momento!</image>
+  <image path="/GS1/etc/" bundle="etc00bs" sprite="etc00bs">等等！</image>
+  <image path="/GS1/etc/" bundle="etc00bt" sprite="etc00bt">等等！</image>
+  <image path="/GS1/etc/" bundle="etc00bu" sprite="etc00bu">Hold it!</image>
+  <image path="/GS1/etc/" bundle="etc012" sprite="etc012">くらえ！</image>
+  <image path="/GS1/etc/" bundle="etc012b" sprite="etc012b">Toma essa!</image>
+  <image path="/GS1/etc/" bundle="etc012f" sprite="etc012f">Prends ça!</image>
+  <image path="/GS1/etc/" bundle="etc012g" sprite="etc012g">Nimm das!</image>
+  <image path="/GS1/etc/" bundle="etc012k" sprite="etc012k">받아랏!</image>
+  <image path="/GS1/etc/" bundle="etc012l" sprite="etc012l">¡Toma eso!</image>
+  <image path="/GS1/etc/" bundle="etc012s" sprite="etc012s">看招！</image>
+  <image path="/GS1/etc/" bundle="etc012t" sprite="etc012t">看招！</image>
+  <image path="/GS1/etc/" bundle="etc012u" sprite="etc012u">Take that!</image>
+  <image path="/GS1/etc/" bundle="etc014" sprite="etc014_1">罪</image>
+  <image path="/GS1/etc/" bundle="etc014" sprite="etc014_0">有</image>
+  <image path="/GS1/etc/" bundle="etc014" sprite="etc014_2">無</image>
+  <image path="/GS1/etc/" bundle="etc014" sprite="etc014_3">罪</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_2">o</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_5">n</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_3">c</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_0">I</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_1">n</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_8">C</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_10">l</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_19">a</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_4">e</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_14">o</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_7">e</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_17">l</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_16">u</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_18">p</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_13">d</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_15">C</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_12">a</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_9">u</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_21">a</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_11">p</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_6">t</image>
+  <image path="/GS1/etc/" bundle="etc014b" sprite="etc014b_20">d</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_11">C</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_9">l</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_13">u</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_0">N</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_10">e</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_18">e</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_12">o</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_7">a</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_15">a</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_3">C</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_14">p</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_2">n</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_17">l</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_6">p</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_5">u</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_16">b</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_4">o</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_8">b</image>
+  <image path="/GS1/etc/" bundle="etc014f" sprite="etc014f_1">o</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_8">u</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_18">d</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_1">i</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_11">i</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_13">S</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_17">l</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_3">h</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_20">g</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_19">i</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_12">g</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_7">h</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_4">t</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_16">u</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_2">c</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_0">N</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_6">c</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_5">S</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_15">h</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_14">c</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_9">l</image>
+  <image path="/GS1/etc/" bundle="etc014g" sprite="etc014g_10">d</image>
+  <image path="/GS1/etc/" bundle="etc014k" sprite="etc014k_0">유</image>
+  <image path="/GS1/etc/" bundle="etc014k" sprite="etc014k_3">죄</image>
+  <image path="/GS1/etc/" bundle="etc014k" sprite="etc014k_2">무</image>
+  <image path="/GS1/etc/" bundle="etc014k" sprite="etc014k_1">죄</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_1">o</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_9">e</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_17">e</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_10">C</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_14">a</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_15">b</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_6">a</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_3">u</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_13">p</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_7">b</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_4">l</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_2">C</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_16">l</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_5">p</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_8">l</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_0">N</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_11">u</image>
+  <image path="/GS1/etc/" bundle="etc014l" sprite="etc014l_12">l</image>
+  <image path="/GS1/etc/" bundle="etc014s" sprite="etc014s_1">罪</image>
+  <image path="/GS1/etc/" bundle="etc014s" sprite="etc014s_0">有</image>
+  <image path="/GS1/etc/" bundle="etc014s" sprite="etc014s_2">无</image>
+  <image path="/GS1/etc/" bundle="etc014s" sprite="etc014s_3">罪</image>
+  <image path="/GS1/etc/" bundle="etc014t" sprite="etc014t_3">罪</image>
+  <image path="/GS1/etc/" bundle="etc014t" sprite="etc014t_1">罪</image>
+  <image path="/GS1/etc/" bundle="etc014t" sprite="etc014t_2">無</image>
+  <image path="/GS1/etc/" bundle="etc014t" sprite="etc014t_0">有</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_8">y</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_7">t</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_1">o</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_6">l</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_0">N</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_13">t</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_5">i</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_10">u</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_3">G</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_2">t</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_4">u</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_11">i</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_14">y</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_12">l</image>
+  <image path="/GS1/etc/" bundle="etc014u" sprite="etc014u_9">G</image>
+</images>

@@ -1,0 +1,21 @@
+{
+  "baseImages": 24,
+  "imageIdentities": 127,
+  "regionIdentities": 1229,
+  "sealRegions": 87,
+  "icons": 140,
+  "seals": 95,
+  "sources": 295,
+  "cultures": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "fr",
+    "de",
+    "ko",
+    "pt-BR",
+    "es-419"
+  ],
+  "resourceSha256": "83d9c0dc85f378d8b5cded6bb72c58d1aedd4974a7b54486634cbd234dddcaa0"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psycheLocks>
+  <banner title="1" animation="etc019a" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019.unity3d" sha256="97fe84652019c9ccabe9aa2ecbf16c45f42afa4a9d0b4e674dfc9079f720b4ec">解除成功</banner>
+  <banner title="1" animation="etc019au" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019u.unity3d" sha256="3ab67a4184e23cb59e75234378382ba22278ab01de18da49ca86007805d581ca">Unlock Successful</banner>
+  <banner title="1" animation="etc019af" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019f.unity3d" sha256="cfd75b6d6ef5ed520aa56d1eabfdf84cac9ff5224f7c70ae86fd7985dc743fa6">Ouverture réussie</banner>
+  <banner title="1" animation="etc019ag" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019g.unity3d" sha256="9e4f21ce4ccd6b2605d2a56df410ba919cacbe856f76f63bc5224e6c11bb7970">Blockade gelöst</banner>
+  <banner title="1" animation="etc019ak" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019k.unity3d" sha256="35d34439f23eb7e7630145d45494a5aa9d1043e48c964279fa4831f5b0db88e8">해제 성공</banner>
+  <banner title="1" animation="etc019as" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019s.unity3d" sha256="eee4bb5b2809f4245c8413ac3450e1628ed51b49faaaefd73af7225864fa0a31">解除成功</banner>
+  <banner title="1" animation="etc019at" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019t.unity3d" sha256="88a5e1d26a77a3573927a2ee96c7c0bb8d77eee1da58150849f584afd9dd03dc">解除成功</banner>
+  <banner title="1" animation="etc019ab" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019b.unity3d" sha256="350f5b080f41529670404ae606338c38a27e552a65f598de5bbf3546eabd201c">Destravamento Concluído</banner>
+  <banner title="1" animation="etc019al" source="PWAAT_Data/StreamingAssets/GS2/TextureAnmRelations/Etcs/animationset_etc019l.unity3d" sha256="f9ed2646d39661a700665e2b49c8408b7ad6288efbd20d37849d36e0cc5b0644">Desbloqueado</banner>
+  <banner title="2" animation="etc019a" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019.unity3d" sha256="58ef790e048b722c4b78b231f4308ec4beef6742eb6b2c368a99f03d45847a89">解除成功</banner>
+  <banner title="2" animation="etc019au" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019u.unity3d" sha256="cee4466e019d5495b65b1481b6fc22c4f5320b196c316a3f67855f621f862488">Unlock Successful</banner>
+  <banner title="2" animation="etc019af" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019f.unity3d" sha256="5bb3d878ab96f54158a399c3a2201adf22a6be3ff60b56f37e935bc4b787aa70">Ouverture réussie</banner>
+  <banner title="2" animation="etc019ag" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019g.unity3d" sha256="ef855e9396a60a71ed04b27e471e3f1cbe3c1740d21b21c734b7ca6bc9088ab6">Blockade gelöst</banner>
+  <banner title="2" animation="etc019ak" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019k.unity3d" sha256="3d946cd9082d515a6361a37b68352cbb534ac6c5ddc37296cd7c059954e44bf1">해제 성공</banner>
+  <banner title="2" animation="etc019as" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019s.unity3d" sha256="bc86dbff4f91f971d2cfb7ba3055fc1c38e8197124a1fb5066c738bf1d7dd516">解除成功</banner>
+  <banner title="2" animation="etc019at" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019t.unity3d" sha256="aeaa243d0d3e93e690c5812072fca48447b515ea33acfc07154014ccbfa898f1">解除成功</banner>
+  <banner title="2" animation="etc019ab" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019b.unity3d" sha256="72983a61942329644cedc48f625ad9a2a8fb837ff559b426f419fed00e8a2031">Destravamento Concluído</banner>
+  <banner title="2" animation="etc019al" source="PWAAT_Data/StreamingAssets/GS3/TextureAnmRelations/Etcs/animationset_etc019l.unity3d" sha256="69448107a6872e43270be8570c6d25a835a6cc919da4393f942d0be56ee0bcf4">Desbloqueado</banner>
+</psycheLocks>

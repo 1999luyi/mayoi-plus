@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyphs>
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_42" text="J" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_75" text="Num 7" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_77" text="Num 9" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_19" text="RAlt" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_18" text="LAlt" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_65" message="key.up" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_55" text="W" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_37" text="E" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_76" text="Num 8" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_48" text="P" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_72" text="Num 4" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_10" text="F10" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_43" text="K" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_74" text="Num 6" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_41" text="I" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_68" message="key.right" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_23" text="1" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_64" text="PgDn" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_31" text="9" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_69" text="Num 1" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_2" text="F2" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_32" text="0" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_40" text="H" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_29" text="7" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_50" text="R" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_56" text="X" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_12" text="F12" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_5" text="F5" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_20" text="Space" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_1" text="F1" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_66" message="key.down" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_30" text="8" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_59" text="Ins" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_0" text="Esc" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_33" text="A" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_26" text="4" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_47" text="O" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_63" text="End" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_11" text="F11" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_57" text="Y" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_35" text="C" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_24" text="2" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_60" text="Home" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_39" text="G" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_16" text="LCtrl" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_25" text="3" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_71" text="Num 3" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_78" text="Num 0" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_70" text="Num 2" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_6" text="F6" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_28" text="6" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_44" text="L" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_8" text="F8" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_58" text="Z" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_17" text="RCtrl" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_22" text="Enter" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_34" text="B" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_49" text="Q" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_13" text="Tab" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_21" text="BS" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_27" text="5" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_54" text="V" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_4" text="F4" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_51" text="S" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_67" message="key.left" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_36" text="D" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_45" text="M" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_61" text="PgUp" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_38" text="F" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_62" text="Del" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_53" text="U" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_7" text="F7" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_14" text="LShift" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_15" text="RShift" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_73" text="Num 5" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_46" text="N" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_3" text="F3" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_9" text="F9" />
+  <glyph atlas="option_list_bg_9" sprite="option_list_bg_9_52" text="T" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_0" message="pad.a" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_1" message="pad.b" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_2" message="pad.y" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_3" message="pad.x" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_4" message="pad.lb" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_5" message="pad.rb" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_16" message="pad.lt" />
+  <glyph atlas="symbol_xbox_large" sprite="symbol_steamDeck_17" message="pad.rt" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_42" text="J" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_75" text="Num 7" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_77" text="Num 9" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_19" text="RAlt" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_18" text="LAlt" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_65" message="key.up" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_55" text="W" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_37" text="E" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_76" text="Num 8" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_48" text="P" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_72" text="Num 4" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_10" text="F10" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_43" text="K" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_74" text="Num 6" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_41" text="I" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_68" message="key.right" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_23" text="1" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_64" text="PgDn" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_31" text="9" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_69" text="Num 1" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_2" text="F2" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_32" text="0" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_40" text="H" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_29" text="7" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_50" text="R" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_56" text="X" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_12" text="F12" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_5" text="F5" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_20" text="Space" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_1" text="F1" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_66" message="key.down" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_30" text="8" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_59" text="Ins" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_0" text="Esc" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_33" text="A" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_26" text="4" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_47" text="O" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_63" text="End" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_11" text="F11" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_57" text="Y" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_35" text="C" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_24" text="2" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_60" text="Home" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_39" text="G" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_16" text="LCtrl" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_25" text="3" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_71" text="Num 3" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_78" text="Num 0" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_70" text="Num 2" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_6" text="F6" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_28" text="6" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_44" text="L" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_8" text="F8" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_58" text="Z" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_17" text="RCtrl" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_22" text="Enter" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_34" text="B" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_49" text="Q" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_13" text="Tab" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_21" text="BS" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_27" text="5" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_54" text="V" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_4" text="F4" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_51" text="S" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_67" message="key.left" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_36" text="D" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_45" text="M" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_61" text="PgUp" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_38" text="F" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_62" text="Del" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_53" text="U" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_7" text="F7" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_14" text="LShift" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_15" text="RShift" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_73" text="Num 5" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_46" text="N" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_3" text="F3" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_9" text="F9" />
+  <glyph path="/menu/common/" atlas="symbol_pc" sprite="symbol_pc_52" text="T" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_0" message="pad.a" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_1" message="pad.b" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_2" message="pad.y" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_3" message="pad.x" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_4" message="pad.lb" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_5" message="pad.rb" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_11" message="pad.menu" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_12" message="pad.view" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_13" message="pad.rs.press" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_14" message="pad.rs.down" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_15" message="pad.rs.up" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_16" message="pad.lt" />
+  <glyph path="/menu/common/" atlas="symbol_xbox" sprite="symbol_xbox_17" message="pad.rt" />
+</glyphs>

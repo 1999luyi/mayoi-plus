@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<images>
+  <image path="/menu/title/" bundle="title" sprite="title">逆転裁判123 成歩堂セレクション</image>
+  <image path="/menu/title/" bundle="titlek" sprite="titlek">역전재판123 나루호도 셀렉션</image>
+  <image path="/menu/title/" bundle="titles" sprite="titles">逆转裁判123 成步堂精选集</image>
+  <image path="/menu/title/" bundle="titlet" sprite="titlet">逆轉裁判123 成步堂精選集</image>
+  <image path="/menu/title/" bundle="titleu" sprite="titleu">Phoenix Wright: Ace Attorney Trilogy</image>
+  <image path="/menu/title/" bundle="copy" sprite="copy">©CAPCOM CO., LTD. 2014, 2019 ALL RIGHTS RESERVED.</image>
+  <image path="/GS1/BG/" bundle="titlegs1" sprite="titleGS1">逆転裁判 蘇る逆転</image>
+  <image path="/GS1/BG/" bundle="titlegs1k" sprite="titleGS1k">역전재판 소생하는 역전</image>
+  <image path="/GS1/BG/" bundle="titlegs1s" sprite="titleGS1s">逆转裁判 复苏的逆转</image>
+  <image path="/GS1/BG/" bundle="titlegs1t" sprite="titleGS1t">逆轉裁判 復甦的逆轉</image>
+  <image path="/GS1/BG/" bundle="titlegs1u" sprite="titleGS1u">Phoenix Wright: Ace Attorney</image>
+  <image path="/GS2/BG/" bundle="titlegs2" sprite="titleGS2">逆転裁判2</image>
+  <image path="/GS2/BG/" bundle="titlegs2k" sprite="titleGS2k">역전재판2</image>
+  <image path="/GS2/BG/" bundle="titlegs2s" sprite="titleGS2s">逆转裁判2</image>
+  <image path="/GS2/BG/" bundle="titlegs2t" sprite="titleGS2t">逆轉裁判2</image>
+  <image path="/GS2/BG/" bundle="titlegs2u" sprite="titleGS2u">Phoenix Wright: Ace Attorney – Justice For All</image>
+  <image path="/GS3/BG/" bundle="titlegs3" sprite="titleGS3">逆転裁判3</image>
+  <image path="/GS3/BG/" bundle="titlegs3k" sprite="titleGS3k">역전재판3</image>
+  <image path="/GS3/BG/" bundle="titlegs3s" sprite="titleGS3s">逆转裁判3</image>
+  <image path="/GS3/BG/" bundle="titlegs3t" sprite="titleGS3t">逆轉裁判3</image>
+  <image path="/GS3/BG/" bundle="titlegs3u" sprite="titleGS3u">Phoenix Wright: Ace Attorney – Trials and Tribulations</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletext" sprite="artfile_titleText_3">背景</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletext" sprite="artfile_titleText_1">イベントシーン</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletext" sprite="artfile_titleText_2">キャラクター</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletext" sprite="artfile_titleText_0">ビジュアル</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextu" sprite="artfile_titleTextu_0">Illustrations</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextu" sprite="artfile_titleTextu_1">Scenes</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextu" sprite="artfile_titleTextu_3">Backgrounds</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextu" sprite="artfile_titleTextu_2">Characters</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextf" sprite="artfile_titleTextf_3">Décors</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextf" sprite="artfile_titleTextf_2">Personnages</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextf" sprite="artfile_titleTextf_1">Scènes</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextf" sprite="artfile_titleTextf_0">Illustrations</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextg" sprite="artfile_titleTextg_3">Hintergründe</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextg" sprite="artfile_titleTextg_2">Charaktere</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextg" sprite="artfile_titleTextg_0">Illustrationen</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextg" sprite="artfile_titleTextg_1">Szenen</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextk" sprite="artfile_titleTextk_1">이벤트 장면</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextk" sprite="artfile_titleTextk_3">배경</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextk" sprite="artfile_titleTextk_0">비주얼</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextk" sprite="artfile_titleTextk_2">캐릭터</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletexts" sprite="artfile_titleTexts_2">角色</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletexts" sprite="artfile_titleTexts_1">事件场景</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletexts" sprite="artfile_titleTexts_3">背景</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletexts" sprite="artfile_titleTexts_0">插图</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextt" sprite="artfile_titleTextt_2">角色</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextt" sprite="artfile_titleTextt_3">背景</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextt" sprite="artfile_titleTextt_1">事件場景</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextt" sprite="artfile_titleTextt_0">插畫</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextb" sprite="artfile_titleTextb_3">Cenários</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextb" sprite="artfile_titleTextb_1">Cenas</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextb" sprite="artfile_titleTextb_0">Ilustrações</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextb" sprite="artfile_titleTextb_2">Personagens</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextl" sprite="artfile_titleTextl_0">Ilustraciones</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextl" sprite="artfile_titleTextl_1">Escenas</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextl" sprite="artfile_titleTextl_2">Personajes</image>
+  <image path="/Gallery/Artfile/menu/" bundle="artfile_titletextl" sprite="artfile_titleTextl_3">Fondos</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_" sprite="actionEditor_bigfont__1">待った！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_" sprite="actionEditor_bigfont__0">異議あり！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_" sprite="actionEditor_bigfont__2">くらえ！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_u" sprite="actionEditor_bigfont_u_1">Hold it!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_u" sprite="actionEditor_bigfont_u_0">Objection!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_u" sprite="actionEditor_bigfont_u_2">Take that!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_f" sprite="actionEditor_bigfont_f_0">Objection!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_f" sprite="actionEditor_bigfont_f_1">Un instant!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_f" sprite="actionEditor_bigfont_f_2">Prends ça!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_g" sprite="actionEditor_bigfont_g_0">Einspruch!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_g" sprite="actionEditor_bigfont_g_2">Nimm das!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_g" sprite="actionEditor_bigfont_g_1">Moment mal!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_k" sprite="actionEditor_bigfont_k_2">받아랏!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_k" sprite="actionEditor_bigfont_k_0">이의 있음!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_k" sprite="actionEditor_bigfont_k_1">잠깐!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_s" sprite="actionEditor_bigfont_s_0">异议！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_s" sprite="actionEditor_bigfont_s_2">看招！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_s" sprite="actionEditor_bigfont_s_1">等等！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_t" sprite="actionEditor_bigfont_t_0">異議！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_t" sprite="actionEditor_bigfont_t_2">看招！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_t" sprite="actionEditor_bigfont_t_1">等等！</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_b" sprite="actionEditor_bigfont_b_2">Toma essa!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_b" sprite="actionEditor_bigfont_b_1">Calma lá!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_b" sprite="actionEditor_bigfont_b_0">Protesto!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_l" sprite="actionEditor_bigfont_l_1">¡Un momento!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_l" sprite="actionEditor_bigfont_l_2">¡Toma eso!</image>
+  <image path="/Gallery/ActionStudio/" bundle="actioneditor_bigfont_l" sprite="actionEditor_bigfont_l_0">¡Objeción!</image>
+  <image path="/GS1/BG/" bundle="title_textgs1" sprite="title_textGS1_1">第2話</image>
+  <image path="/GS1/BG/" bundle="title_textgs1" sprite="title_textGS1_3">第4話</image>
+  <image path="/GS1/BG/" bundle="title_textgs1" sprite="title_textGS1_4">第5話</image>
+  <image path="/GS1/BG/" bundle="title_textgs1" sprite="title_textGS1_0">第1話</image>
+  <image path="/GS1/BG/" bundle="title_textgs1" sprite="title_textGS1_2">第3話</image>
+  <image path="/GS1/BG/" bundle="title_textgs1u" sprite="title_textGS1u_1">Episode 2</image>
+  <image path="/GS1/BG/" bundle="title_textgs1u" sprite="title_textGS1u_3">Episode 4</image>
+  <image path="/GS1/BG/" bundle="title_textgs1u" sprite="title_textGS1u_0">Episode 1</image>
+  <image path="/GS1/BG/" bundle="title_textgs1u" sprite="title_textGS1u_4">Episode 5</image>
+  <image path="/GS1/BG/" bundle="title_textgs1u" sprite="title_textGS1u_2">Episode 3</image>
+  <image path="/GS1/BG/" bundle="title_textgs1f" sprite="title_textuGS1f_4">Épisode 5</image>
+  <image path="/GS1/BG/" bundle="title_textgs1f" sprite="title_textuGS1f_1">Épisode 2</image>
+  <image path="/GS1/BG/" bundle="title_textgs1f" sprite="title_textuGS1f_0">Épisode 1</image>
+  <image path="/GS1/BG/" bundle="title_textgs1f" sprite="title_textuGS1f_2">Épisode 3</image>
+  <image path="/GS1/BG/" bundle="title_textgs1f" sprite="title_textuGS1f_3">Épisode 4</image>
+  <image path="/GS1/BG/" bundle="title_textgs1g" sprite="title_textuGS1g_3">Episode 4</image>
+  <image path="/GS1/BG/" bundle="title_textgs1g" sprite="title_textuGS1g_0">Episode 1</image>
+  <image path="/GS1/BG/" bundle="title_textgs1g" sprite="title_textuGS1g_2">Episode 3</image>
+  <image path="/GS1/BG/" bundle="title_textgs1g" sprite="title_textuGS1g_1">Episode 2</image>
+  <image path="/GS1/BG/" bundle="title_textgs1g" sprite="title_textuGS1g_4">Episode 5</image>
+  <image path="/GS1/BG/" bundle="title_textgs1k" sprite="title_textGS1k_0">제1화</image>
+  <image path="/GS1/BG/" bundle="title_textgs1k" sprite="title_textGS1k_1">제2화</image>
+  <image path="/GS1/BG/" bundle="title_textgs1k" sprite="title_textGS1k_3">제4화</image>
+  <image path="/GS1/BG/" bundle="title_textgs1k" sprite="title_textGS1k_2">제3화</image>
+  <image path="/GS1/BG/" bundle="title_textgs1k" sprite="title_textGS1k_4">제5화</image>
+  <image path="/GS1/BG/" bundle="title_textgs1s" sprite="title_textGS1s_0">第1章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1s" sprite="title_textGS1s_1">第2章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1s" sprite="title_textGS1s_3">第4章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1s" sprite="title_textGS1s_2">第3章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1s" sprite="title_textGS1s_4">第5章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1t" sprite="title_textGS1t_1">第2章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1t" sprite="title_textGS1t_4">第5章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1t" sprite="title_textGS1t_2">第3章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1t" sprite="title_textGS1t_3">第4章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1t" sprite="title_textGS1t_0">第1章</image>
+  <image path="/GS1/BG/" bundle="title_textgs1b" sprite="title_textGS1b_0">Episódio 1</image>
+  <image path="/GS1/BG/" bundle="title_textgs1b" sprite="title_textGS1b_4">Episódio 5</image>
+  <image path="/GS1/BG/" bundle="title_textgs1b" sprite="title_textGS1b_2">Episódio 3</image>
+  <image path="/GS1/BG/" bundle="title_textgs1b" sprite="title_textGS1b_3">Episódio 4</image>
+  <image path="/GS1/BG/" bundle="title_textgs1b" sprite="title_textGS1b_1">Episódio 2</image>
+  <image path="/GS1/BG/" bundle="title_textgs1l" sprite="title_textGS1l_1">Episodio 2</image>
+  <image path="/GS1/BG/" bundle="title_textgs1l" sprite="title_textGS1l_3">Episodio 4</image>
+  <image path="/GS1/BG/" bundle="title_textgs1l" sprite="title_textGS1l_4">Episodio 5</image>
+  <image path="/GS1/BG/" bundle="title_textgs1l" sprite="title_textGS1l_2">Episodio 3</image>
+  <image path="/GS1/BG/" bundle="title_textgs1l" sprite="title_textGS1l_0">Episodio 1</image>
+  <image path="/GS2/BG/" bundle="title_textgs2" sprite="title_textGS2_3">第4話</image>
+  <image path="/GS2/BG/" bundle="title_textgs2" sprite="title_textGS2_1">第2話</image>
+  <image path="/GS2/BG/" bundle="title_textgs2" sprite="title_textGS2_2">第3話</image>
+  <image path="/GS2/BG/" bundle="title_textgs2" sprite="title_textGS2_0">第1話</image>
+  <image path="/GS2/BG/" bundle="title_textgs2u" sprite="title_textGS2u_1">Episode 2</image>
+  <image path="/GS2/BG/" bundle="title_textgs2u" sprite="title_textGS2u_0">Episode 1</image>
+  <image path="/GS2/BG/" bundle="title_textgs2u" sprite="title_textGS2u_3">Episode 4</image>
+  <image path="/GS2/BG/" bundle="title_textgs2u" sprite="title_textGS2u_2">Episode 3</image>
+  <image path="/GS2/BG/" bundle="title_textgs2f" sprite="title_textuGS2f_1">Épisode 2</image>
+  <image path="/GS2/BG/" bundle="title_textgs2f" sprite="title_textuGS2f_3">Épisode 4</image>
+  <image path="/GS2/BG/" bundle="title_textgs2f" sprite="title_textuGS2f_0">Épisode 1</image>
+  <image path="/GS2/BG/" bundle="title_textgs2f" sprite="title_textuGS2f_2">Épisode 3</image>
+  <image path="/GS2/BG/" bundle="title_textgs2g" sprite="title_textuGS2g_1">Episode 2</image>
+  <image path="/GS2/BG/" bundle="title_textgs2g" sprite="title_textuGS2g_3">Episode 4</image>
+  <image path="/GS2/BG/" bundle="title_textgs2g" sprite="title_textuGS2g_0">Episode 1</image>
+  <image path="/GS2/BG/" bundle="title_textgs2g" sprite="title_textuGS2g_2">Episode 3</image>
+  <image path="/GS2/BG/" bundle="title_textgs2k" sprite="title_textGS2k_1">제2화</image>
+  <image path="/GS2/BG/" bundle="title_textgs2k" sprite="title_textGS2k_0">제1화</image>
+  <image path="/GS2/BG/" bundle="title_textgs2k" sprite="title_textGS2k_2">제3화</image>
+  <image path="/GS2/BG/" bundle="title_textgs2k" sprite="title_textGS2k_3">제4화</image>
+  <image path="/GS2/BG/" bundle="title_textgs2s" sprite="title_textGS2s_0">第1章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2s" sprite="title_textGS2s_3">第4章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2s" sprite="title_textGS2s_1">第2章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2s" sprite="title_textGS2s_2">第3章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2t" sprite="title_textGS2t_3">第4章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2t" sprite="title_textGS2t_1">第2章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2t" sprite="title_textGS2t_0">第1章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2t" sprite="title_textGS2t_2">第3章</image>
+  <image path="/GS2/BG/" bundle="title_textgs2b" sprite="title_textGS2b_3">Episódio 4</image>
+  <image path="/GS2/BG/" bundle="title_textgs2b" sprite="title_textGS2b_2">Episódio 3</image>
+  <image path="/GS2/BG/" bundle="title_textgs2b" sprite="title_textGS2b_0">Episódio 1</image>
+  <image path="/GS2/BG/" bundle="title_textgs2b" sprite="title_textGS2b_1">Episódio 2</image>
+  <image path="/GS2/BG/" bundle="title_textgs2l" sprite="title_textGS2l_3">Episodio 4</image>
+  <image path="/GS2/BG/" bundle="title_textgs2l" sprite="title_textGS2l_0">Episodio 1</image>
+  <image path="/GS2/BG/" bundle="title_textgs2l" sprite="title_textGS2l_2">Episodio 3</image>
+  <image path="/GS2/BG/" bundle="title_textgs2l" sprite="title_textGS2l_1">Episodio 2</image>
+  <image path="/GS3/BG/" bundle="title_textgs3" sprite="title_textGS3_2">第3話</image>
+  <image path="/GS3/BG/" bundle="title_textgs3" sprite="title_textGS3_4">第5話</image>
+  <image path="/GS3/BG/" bundle="title_textgs3" sprite="title_textGS3_0">第1話</image>
+  <image path="/GS3/BG/" bundle="title_textgs3" sprite="title_textGS3_1">第2話</image>
+  <image path="/GS3/BG/" bundle="title_textgs3" sprite="title_textGS3_3">第4話</image>
+  <image path="/GS3/BG/" bundle="title_textgs3u" sprite="title_textGS3u_4">Episode 5</image>
+  <image path="/GS3/BG/" bundle="title_textgs3u" sprite="title_textGS3u_0">Episode 1</image>
+  <image path="/GS3/BG/" bundle="title_textgs3u" sprite="title_textGS3u_3">Episode 4</image>
+  <image path="/GS3/BG/" bundle="title_textgs3u" sprite="title_textGS3u_2">Episode 3</image>
+  <image path="/GS3/BG/" bundle="title_textgs3u" sprite="title_textGS3u_1">Episode 2</image>
+  <image path="/GS3/BG/" bundle="title_textgs3f" sprite="title_textuGS3f_2">Épisode 3</image>
+  <image path="/GS3/BG/" bundle="title_textgs3f" sprite="title_textuGS3f_0">Épisode 1</image>
+  <image path="/GS3/BG/" bundle="title_textgs3f" sprite="title_textuGS3f_4">Épisode 5</image>
+  <image path="/GS3/BG/" bundle="title_textgs3f" sprite="title_textuGS3f_3">Épisode 4</image>
+  <image path="/GS3/BG/" bundle="title_textgs3f" sprite="title_textuGS3f_1">Épisode 2</image>
+  <image path="/GS3/BG/" bundle="title_textgs3g" sprite="title_textuGS3g_0">Episode 1</image>
+  <image path="/GS3/BG/" bundle="title_textgs3g" sprite="title_textuGS3g_4">Episode 5</image>
+  <image path="/GS3/BG/" bundle="title_textgs3g" sprite="title_textuGS3g_1">Episode 2</image>
+  <image path="/GS3/BG/" bundle="title_textgs3g" sprite="title_textuGS3g_3">Episode 4</image>
+  <image path="/GS3/BG/" bundle="title_textgs3g" sprite="title_textuGS3g_2">Episode 3</image>
+  <image path="/GS3/BG/" bundle="title_textgs3k" sprite="title_textGS3k_0">제1화</image>
+  <image path="/GS3/BG/" bundle="title_textgs3k" sprite="title_textGS3k_4">제5화</image>
+  <image path="/GS3/BG/" bundle="title_textgs3k" sprite="title_textGS3k_3">제4화</image>
+  <image path="/GS3/BG/" bundle="title_textgs3k" sprite="title_textGS3k_2">제3화</image>
+  <image path="/GS3/BG/" bundle="title_textgs3k" sprite="title_textGS3k_1">제2화</image>
+  <image path="/GS3/BG/" bundle="title_textgs3s" sprite="title_textGS3s_0">第1章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3s" sprite="title_textGS3s_2">第3章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3s" sprite="title_textGS3s_3">第4章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3s" sprite="title_textGS3s_4">第5章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3s" sprite="title_textGS3s_1">第2章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3t" sprite="title_textGS3t_3">第4章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3t" sprite="title_textGS3t_1">第2章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3t" sprite="title_textGS3t_0">第1章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3t" sprite="title_textGS3t_2">第3章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3t" sprite="title_textGS3t_4">第5章</image>
+  <image path="/GS3/BG/" bundle="title_textgs3b" sprite="title_textGS3b_1">Episódio 2</image>
+  <image path="/GS3/BG/" bundle="title_textgs3b" sprite="title_textGS3b_2">Episódio 3</image>
+  <image path="/GS3/BG/" bundle="title_textgs3b" sprite="title_textGS3b_4">Episódio 5</image>
+  <image path="/GS3/BG/" bundle="title_textgs3b" sprite="title_textGS3b_0">Episódio 1</image>
+  <image path="/GS3/BG/" bundle="title_textgs3b" sprite="title_textGS3b_3">Episódio 4</image>
+  <image path="/GS3/BG/" bundle="title_textgs3l" sprite="title_textGS31_0">Episodio 1</image>
+  <image path="/GS3/BG/" bundle="title_textgs3l" sprite="title_textGS31_1">Episodio 2</image>
+  <image path="/GS3/BG/" bundle="title_textgs3l" sprite="title_textGS31_4">Episodio 5</image>
+  <image path="/GS3/BG/" bundle="title_textgs3l" sprite="title_textGS31_3">Episodio 4</image>
+  <image path="/GS3/BG/" bundle="title_textgs3l" sprite="title_textGS31_2">Episodio 3</image>
+</images>

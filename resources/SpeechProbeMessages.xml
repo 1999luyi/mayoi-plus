@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<messages>
+  <message culture="zh-Hans">逆转裁判无障碍模组。语音测试：你好，世界！一、二、三。</message>
+  <message culture="zh-Hant">逆轉裁判無障礙模組。語音測試：你好，世界！一、二、三。</message>
+  <message culture="en">Phoenix Wright accessibility mod. Speech test: Hello, world! One, two, three.</message>
+  <message culture="ja">逆転裁判アクセシビリティMOD。音声テスト：こんにちは、世界！一、二、三。</message>
+  <message culture="fr">Mod d’accessibilité de Phoenix Wright. Test vocal : bonjour, le monde ! Un, deux, trois.</message>
+  <message culture="de">Barrierefreiheitsmod für Phoenix Wright. Sprachausgabe testen: Hallo, Welt! Eins, zwei, drei.</message>
+  <message culture="ko">역전재판 접근성 모드. 음성 테스트: 안녕하세요, 세상! 하나, 둘, 셋.</message>
+  <message culture="pt-BR">Mod de acessibilidade de Phoenix Wright. Teste de voz: olá, mundo! Um, dois, três.</message>
+  <message culture="es-419">Mod de accesibilidad de Phoenix Wright. Prueba de voz: ¡Hola, mundo! Uno, dos, tres.</message>
+</messages>

@@ -1,0 +1,110 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net35</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <PlatformTarget>x86</PlatformTarget>
+    <AssemblyName>Pwaat.Accessibility</AssemblyName>
+    <RootNamespace>Pwaat.Accessibility</RootNamespace>
+    <Version>0.20.5</Version>
+    <InformationalVersion>0.20.5-public-source.1</InformationalVersion>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
+    <EnableDefaultNoneItems>false</EnableDefaultNoneItems>
+    <DebugType>none</DebugType>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+    <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="src\BootstrapPlugin.cs" />
+    <Compile Include="src\Speech\NativeTolk.cs" />
+    <Compile Include="src\Speech\SpeechOutput.cs" />
+    <Compile Include="src\Ui\UiResources.cs" />
+    <Compile Include="src\Ui\TitleMenuHandler.cs" />
+    <Compile Include="src\Ui\MessageBoxLifecycle.cs" />
+    <Compile Include="src\Ui\StartAndLoadingHandlers.cs" />
+    <Compile Include="src\Ui\UiRuntime.cs" />
+    <Compile Include="src\Ui\TanchikiHandler.cs" />
+    <Compile Include="src\Ui\TanchikiHooks.cs" />
+    <Compile Include="src\Ui\SafePasswordHandler.cs" />
+    <Compile Include="src\Ui\SafePasswordHooks.cs" />
+    <Compile Include="src\Ui\VideoTapeHandler.cs" />
+    <Compile Include="src\Ui\VideoTapeClock.cs" />
+    <EmbeddedResource Include="resources\VideoFrames.xml" LogicalName="Pwaat.Accessibility.VideoFrames.xml" />
+    <Compile Include="src\Ui\VideoTapeHooks.cs" />
+    <Compile Include="src\Ui\NativeHooks.cs" />
+    <Compile Include="src\Ui\DebugPageTrace.cs" />
+    <EmbeddedResource Include="resources\SpeechProbeMessages.xml" LogicalName="Pwaat.Accessibility.SpeechProbeMessages.xml" />
+    <EmbeddedResource Include="resources\ControlGlyphs.xml" LogicalName="Pwaat.Accessibility.ControlGlyphs.xml" />
+    <EmbeddedResource Include="resources\UiMessages.xml" LogicalName="Pwaat.Accessibility.UiMessages.xml" />
+    <EmbeddedResource Include="resources\GameAssembly.sha256" LogicalName="Pwaat.Accessibility.GameAssembly.sha256" />
+    <Compile Include="src\Ui\MenuBatch.cs" />
+    <Compile Include="src\Ui\BatchHooks.cs" />
+    <Compile Include="src\Ui\ImageText.cs" />
+    <Compile Include="src\Ui\StoryTextDecoder.cs" />
+    <Compile Include="src\Ui\StoryMessagesHandler.cs" />
+    <Compile Include="src\Ui\StoryUiHandler.cs" />
+    <Compile Include="src\Ui\CourtRecordImages.cs" />
+    <Compile Include="src\Ui\CourtRecordImageHooks.cs" />
+    <EmbeddedResource Include="resources\CourtRecordImages.xml" LogicalName="Pwaat.Accessibility.CourtRecordImages.xml" />
+    <Compile Include="src\Ui\FingerprintHandler.cs" />
+    <Compile Include="src\Ui\FingerprintHooks.cs" />
+    <Compile Include="src\Ui\FingerprintCoverage.cs" />
+    <Compile Include="src\Ui\VaseShowState.cs" />
+    <Compile Include="src\Ui\DyingMessageState.cs" />
+    <Compile Include="src\Ui\DyingMessageView.cs" />
+    <Compile Include="src\Ui\DyingMessageHandler.cs" />
+    <Compile Include="src\Ui\DyingMessageHooks.cs" />
+    <Compile Include="src\Ui\VaseShowHandler.cs" />
+    <Compile Include="src\Ui\VaseShowHooks.cs" />
+    <Compile Include="src\Ui\VasePuzzleHandler.cs" />
+    <Compile Include="src\Ui\VasePuzzleHooks.cs" />
+    <Compile Include="src\Ui\LuminolHandler.cs" />
+    <Compile Include="src\Ui\LuminolHooks.cs" />
+    <Compile Include="src\Ui\ScientificInvestigationHandler.cs" />
+    <Compile Include="src\Ui\ScientificInvestigationHooks.cs" />
+    <Compile Include="src\Ui\ScientificPointState.cs" />
+    <Compile Include="src\Ui\ScientificPointLabels.cs" />
+    <EmbeddedResource Include="resources\SciencePointLabels.xml" LogicalName="Pwaat.Accessibility.SciencePointLabels.xml" />
+    <Compile Include="src\Ui\ScientificSurfaceSamples.cs" />
+    <Compile Include="src\Ui\PsycheLockHandler.cs" />
+    <Compile Include="src\Ui\PsycheLockHooks.cs" />
+    <EmbeddedResource Include="resources\PsycheLockText.xml" LogicalName="Pwaat.Accessibility.PsycheLockText.xml" />
+    <Compile Include="src\Ui\CursorFeedbackAudio.cs" />
+    <Compile Include="src\Ui\FirstRunIntroduction.cs" />
+    <Compile Include="src\Ui\InvestigationState.cs" />
+    <Compile Include="src\Ui\InvestigationLabels.cs" />
+    <Compile Include="src\Ui\InvestigationLabelFile.cs" />
+    <Compile Include="src\Ui\PicturePointingHandler.cs" />
+    <Compile Include="src\Ui\PicturePointingHooks.cs" />
+    <Compile Include="src\Ui\PicturePointingGeometry.cs" />
+    <EmbeddedResource Include="resources\PicturePointing.xml" LogicalName="Pwaat.Accessibility.PicturePointing.xml" />
+    <EmbeddedResource Include="resources\InvestigationNames.xml" LogicalName="Pwaat.Accessibility.InvestigationLabels.xml" />
+    <Compile Include="src\Ui\InvestigationHandler.cs" />
+    <Compile Include="src\Ui\InvestigationHooks.cs" />
+    <Compile Include="src\Ui\StoryHooks.cs" />
+    <Compile Include="src\Ui\StorySpeakerState.cs" />
+    <Compile Include="src\Ui\StoryPresentationHandler.cs" />
+    <Compile Include="src\Ui\StoryPresentationHooks.cs" />
+    <Compile Include="src\Ui\StoryInputHandler.cs" />
+    <Compile Include="src\Ui\AccessibilityPreferences.cs" />
+    <Compile Include="src\Ui\AccessibilityHelpHandler.cs" />
+    <Compile Include="src\Ui\NativeAccessibilitySettings.cs" />
+    <Compile Include="src\Ui\AccessibilityHooks.cs" />
+    <EmbeddedResource Include="resources\StoryImageText.xml" LogicalName="Pwaat.Accessibility.StoryImageText.xml" />
+    <EmbeddedResource Include="resources\SpeakerNames.xml" LogicalName="Pwaat.Accessibility.SpeakerNames.xml" />
+    <EmbeddedResource Include="resources\ImageText.xml" LogicalName="Pwaat.Accessibility.ImageText.xml" />
+    <EmbeddedResource Include="resources\ArtworkDescriptions.xml" LogicalName="Pwaat.Accessibility.ArtworkDescriptions.xml" />
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies.net35" Version="1.0.3" PrivateAssets="all" />
+    <Reference Include="BepInEx"><HintPath>$(BepInExDirectory)\BepInEx\core\BepInEx.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(BepInExDirectory)\BepInEx\core\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Assembly-CSharp"><HintPath>$(GameManagedDirectory)\Assembly-CSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UIModule"><HintPath>$(GameManagedDirectory)\UnityEngine.UIModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UI"><HintPath>$(GameManagedDirectory)\UnityEngine.UI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine"><HintPath>$(GameManagedDirectory)\UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextRenderingModule"><HintPath>$(GameManagedDirectory)\UnityEngine.TextRenderingModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.PhysicsModule"><HintPath>$(GameManagedDirectory)\UnityEngine.PhysicsModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.AudioModule"><HintPath>$(GameManagedDirectory)\UnityEngine.AudioModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(GameManagedDirectory)\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

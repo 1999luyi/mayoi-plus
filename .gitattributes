@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.cs text eol=crlf
+# Preserve the verified Windows working-tree bytes for these inputs.
+packages.lock.json text eol=crlf
+deployment/picture-pointing-summary.json text eol=crlf
+deployment/science-point-labels-summary.json text eol=crlf
+resources/CourtRecordImages.xml text eol=crlf
+resources/PicturePointing.xml text eol=crlf
+resources/CourtRecordImages.xml whitespace=-blank-at-eol

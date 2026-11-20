@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "reviewedAtUtc": "2026-11-09T18:17:17.684643+00:00",
+  "extractedBundles": 1994,
+  "reviewedCandidateScenes": 78,
+  "languageVariantsReviewed": 338,
+  "visualRegionDecisions": 688,
+  "acceptedRegionDecisions": 634,
+  "excludedRegionDecisions": 54,
+  "runtimeIdentities": 8979,
+  "sourceBundles": 342,
+  "compiledNewRows": 8961,
+  "originalExperimentRows": 18,
+  "actualNamedScenes": 77,
+  "scope": "Native investigation tables bound to verified room lifecycle candidates. All named object geometry reviewed. Four unused/unreferenced native tables, dynamic overlays and unproven text remain explicit gaps. Not full-game runtime verification.",
+  "newlyExpandedScenes": 75
+}

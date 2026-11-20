@@ -1,0 +1,316 @@
+{
+  "schema": 1,
+  "gameExecutable": "PWAAT.exe",
+  "expectedGameSha256": "087def1453af56232128ccceb2d903b8318737bf7807b505ea4328b7a9638b6e",
+  "gameMachine": 332,
+  "gameChecks": [
+    {
+      "path": "UnityPlayer.dll",
+      "sha256": "90e2fb176b133e3c1401fa21fd0c365dbed82afd409912b824d222e66e868560"
+    },
+    {
+      "path": "PWAAT_Data/Managed/Assembly-CSharp.dll",
+      "sha256": "8c419d19c86812497cabf9e29b2c87651156a2d705176dadbfec9b066747d15f"
+    },
+    {
+      "path": "PWAAT_Data/Managed/UnityEngine.dll",
+      "sha256": "7bd482e8494aaba675ade29527fa38a2d115d80286dea74d43c1f3faf7f81622"
+    },
+    {
+      "path": "PWAAT_Data/Managed/UnityEngine.CoreModule.dll",
+      "sha256": "74ea5610dc37d0d5e9cb92a5a7e40e16faa4e5eef5c590e9c1c87c56f14d9b31"
+    },
+    {
+      "path": "PWAAT_Data/Mono/EmbedRuntime/mono.dll",
+      "sha256": "660bcd67019797c7f579bc8b2b4c2ba46b100d653d3728d54f7ead121a573831"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/menu/option/option_list_bg_9.unity3d",
+      "sha256": "2875d57355452b335ab8fbef1d282aec1ad0c40ffc28bccf038949d0c2d9bfc2"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/menu/option/symbol_xbox_large.unity3d",
+      "sha256": "4471ca7cba69966696e369ea3837882c94ed8a4042b46893ac0d9f5215f8608e"
+    },
+    {
+      "path": "PWAAT_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "sha256": "afbf644639230571e4f7c890e28d930a918d159319e19fec2b40b97a360e2927"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/Sound/se/wsd/se09f.unity3d",
+      "sha256": "5b7a18959680a2223b90fb2bd0bcf4eddace43f379a7e6ba4a2f5ef92c5ba710"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/Sound/se/strm/se0f7.unity3d",
+      "sha256": "05ab8c84c0322107b1f0ac9f397f320807928029f8ba633beebf4291bfb6d9a2"
+    },
+    {
+      "path": "PWAAT_Data/Managed/UnityEngine.AudioModule.dll",
+      "sha256": "13e39acf9517b3f08950db54d75ba1bc30a6ea7002b1fb4ab75a6b17e6cbddd8"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/Sound/se/strm/se0f8.unity3d",
+      "sha256": "199744c78a0ffe98e8de841a3f588f3abced715741aa755f51d1cce5ca9a92de"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/Sound/se/strm/se061.unity3d",
+      "sha256": "02b059a1c15a0dc674f0cdb9ff36889cbf6ce3c039672d44eb7e98d0543420a7"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/bg/bg0a1.unity3d",
+      "sha256": "ef9ef6b5ee88f7cf853cc9e2621832fbc5fbe72e9f405bde26811528111ca5fd"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/bg/bg0a2.unity3d",
+      "sha256": "47d54ba9bb7fc578aa80c3784011de463d1dd390caf0338405f023bc8970b03b"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/bg/bg0a3.unity3d",
+      "sha256": "35d1e9c02d27a674717d9c52649dffb21b8fe27f329317ca1e8d3a4e541fa5b2"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/moviescriptable/film02_confront.unity3d",
+      "sha256": "aad55f91f64737ab6a66bc65b67a9bc229e77b1915dc106fb56501cfea24f4d9"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/OtherInclusions/moviecollisions.unity3d",
+      "sha256": "8912cc40d0a8ba67255c6e3d092a3f12b15c82ff853c3e25513e0439195d055b"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/Sound/se/wsd/se009.unity3d",
+      "sha256": "f8614e87f243f569c284680734105bee16663a49bccb8784c240c7ab1e12029c"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/Sound/se/wsd/se09d.unity3d",
+      "sha256": "9cb8af45033fd124c9eb6dcf84b5ac93824a62b20dd3bf7c7b41dd0ec0952c77"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff029.unity3d",
+      "sha256": "693482fcf5a8b6f759fa1ab090ed6b10232673c471761ddf254fa0e707892e88"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff029k.unity3d",
+      "sha256": "2d097b203ad5a1df855c20de44183a32c8b6cda0613aee9461f6b681415b468d"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02a.unity3d",
+      "sha256": "94376aae5521dc02e2ec4701ff2c5c2eae18b3378d47127d41b2995861cbf40b"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02ak.unity3d",
+      "sha256": "4e8bc7848344a7390770bd6d8e5b4c8a071cc23505ddeb56194ecb566571a1c2"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02b.unity3d",
+      "sha256": "8b7508f09bb69efaeecc04125736f42addb4773f59fc9f67b19f66c96d5671fc"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02bk.unity3d",
+      "sha256": "d91d709cf6d19a02ed8508f3b0c456829af117f6c2a5e53921f4da5923fb7dbb"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02c.unity3d",
+      "sha256": "b80501ae6082866e3ef1333ed520f12aece327767a70110779236b0311c81cb5"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02ck.unity3d",
+      "sha256": "73ffc3619aa12cc4509cbcf0c1ccfb294ef7bfb5a1bf9cfa45fdda5439ce6a2d"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02d.unity3d",
+      "sha256": "03184d96d4384cf12af61f547cf349fce4cacbf9843ef413f656b9bfa15a439e"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02dk.unity3d",
+      "sha256": "3f41674c939696a825c0096b715044a8942509bde065c13ccc068a89659074d6"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02e.unity3d",
+      "sha256": "48fada6c0aac9c82f39812f0fd0464e3355c93589d7785c01559ea318ce03c34"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02ek.unity3d",
+      "sha256": "731f6976c1a39a190323470f6eacaa891e839d9ea8400ff9679ebdbf711a6d86"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02f.unity3d",
+      "sha256": "da43d99e90c313f2b249b8941d1ec49815735a0feeed3520c28729db2fa40d96"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff02fk.unity3d",
+      "sha256": "38a666565728f117a39e34421f505fa9b60e420303e372bdb2d7ea188d13ea0d"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff030.unity3d",
+      "sha256": "066f74a11d34707c040b832fe23b3872e68d2227dd41bf0276412edd69d30181"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff030k.unity3d",
+      "sha256": "1fe02cd3d89f77bae41a18c30a78b0dc0de904f584ade66e6e173b2928f36fe5"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff031.unity3d",
+      "sha256": "a6b0698d8560b5200099b59f7bfc6a6e945a7656d188c82c829f9378450d7a07"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff031k.unity3d",
+      "sha256": "bcc057b816399695b4bdea62b5bd1cb00f97404f1bb362c722a0b7e34c418a6d"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff032.unity3d",
+      "sha256": "7aac9d63e74053a3924d925bec2e9179041ab82dcd49b35c4d9ff766ae54a782"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff032k.unity3d",
+      "sha256": "86d6bf1fa211c10e90d5ec2c6a7970005206e13877c16fc3c5a1d95f07cbadc0"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff033.unity3d",
+      "sha256": "a2af13c86ece0d8e16a43bfbe7b29d7b0aca6d15e437e82f7a6b29e84899fe49"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff033k.unity3d",
+      "sha256": "e6655587c756409889010c0d88f26b03e9bfa0e453a4e602422cdd3d950bee54"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff034.unity3d",
+      "sha256": "9207138be8f3c611af23d5ff5512298d1a14c19b758e6fbfe11e04ac31e760e5"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff034k.unity3d",
+      "sha256": "63a0d161afd8015b5271ebe5384a171e06cd3bcaab8720bcbcd1ba27a229e464"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff035.unity3d",
+      "sha256": "b7229155c051c803c196cda104eef9caee73f2a5d824a1788b23690fbe33a188"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff035k.unity3d",
+      "sha256": "0fe43dfc0dd7f09cacf0910f56568d3e9ae726edb2eaa18d6403b0bc832b21ef"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff036.unity3d",
+      "sha256": "7275418a7852ee3c28d81e3318584df38866edece04316130afca8d2c2f72edd"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff036k.unity3d",
+      "sha256": "b35edb160c9bf09b64d97c852fe9d10ec783bbf446d6625d4803cd51e91d7b3a"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff037.unity3d",
+      "sha256": "f75d396a0f612510e297a624176b3460ef4af2364bbfcc61090d46767a0bd35a"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff037k.unity3d",
+      "sha256": "7fd731d8a9e0be2cace54e9ea725b44fe2ad8d630b4cbd60ecefc8a2b3758b74"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff038.unity3d",
+      "sha256": "f882477b5e481b0f74aa99ad697198fbe76bd9f88effcfee7cd18ccca2f3ecc1"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff03e.unity3d",
+      "sha256": "48984036d487d434dbc30ae1eaa7066793185f6b6e8c4b2c783ef35da3c071d5"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff03f.unity3d",
+      "sha256": "37ef3ba6231af76a5ce5826a6432dd87cc2c3865600720a2b4e7324eba06810b"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff040.unity3d",
+      "sha256": "90000f204248991cc0b134d8aa60a211f2651fe99ed45dc99dce4292ebb2ca65"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff041.unity3d",
+      "sha256": "f303e3338aff366915dde2e37910494e87571435b81ead341d15bdaa90ba4c85"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff042.unity3d",
+      "sha256": "248ee4f6843f6e499d27c6d9f6317139e0bbda4924271fe7c505864f03ee1930"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff043.unity3d",
+      "sha256": "83edd6f30ff8cc6f3ede286996c0affb0d42963ca8be9b65761dbc5367bbb4a2"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff044.unity3d",
+      "sha256": "2a1f83d7a2e382dd7686726c03ed004dde3c10a9c37525969f5291df7fa592ea"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff045.unity3d",
+      "sha256": "a60f41b084d608a240483cefac509a2c4ae0f714f27c565e7cbc4eb8db4c02f8"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff046.unity3d",
+      "sha256": "a51f52a6a5c010555709d74ea11ea9ff171773fd43032e9407ea207d67eb8ddc"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff047.unity3d",
+      "sha256": "bbf2077985bdd553c0a1a5b17af975011ec57fa5eb4759ba44d71ec4b77c3636"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff048.unity3d",
+      "sha256": "2bf46c9989d88cf60f3f0cc66adf0bceb5bb88a48dade0d8b6ee48b5da146cf9"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff049.unity3d",
+      "sha256": "04fecf0a6843baa660cbd8fd6f9913c9db2fbe5af9085a86ec95e7b2927bbdd6"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff29k.unity3d",
+      "sha256": "e8e78f16ea2e1e4461967ea1e2f02dccf5e68c29cac760202b0ef4532aa41875"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff2ak.unity3d",
+      "sha256": "9143374f593a04a7f967f09670d3b52857ca733add8fe9b9fefad9fec0554841"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff2bk.unity3d",
+      "sha256": "f5d6fdec743471975639e99552523926d11d3943934a2924f18fbd0338472ab7"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff2ck.unity3d",
+      "sha256": "c86486024f7fe46df098d833c83025a87490f1de0274dcd9b90d66483cb1f7a4"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff2dk.unity3d",
+      "sha256": "f378c27f56ed2bb08a5e23dd6b5544203afe0696022d2b59cc475464ca86ab3b"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff2ek.unity3d",
+      "sha256": "d861e287f70074b5d2f3370a5da97a5f9a7c0e8af1cd7c282c29180c4978a727"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff2fk.unity3d",
+      "sha256": "0401b99bfda975a76b4914dd8985242baa970a4505e51759f6366eb1c15036a8"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff30k.unity3d",
+      "sha256": "6887b2a442a912574054dda7cc9904e54bf052092d9b7a47fd2becd095b86598"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff31k.unity3d",
+      "sha256": "e53ce9930f6bad5d64ee8676b1fe700db503c6490648984905015a2bc11e1d71"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff32k.unity3d",
+      "sha256": "9abc28f6e47dca05caa352dcbf21cfa3a3b8674da33db5e9b9e35a96f20fd372"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff33k.unity3d",
+      "sha256": "876b37c0bf2107684476746fb93e295766c8cfa2c295e77359e9c97fdefaa4e9"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff34k.unity3d",
+      "sha256": "20ea7723af81f7e0508ab64ae64ae5317d16c5c2cddc5a154b530e782fc4921e"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/GS1/minigame/DieMessage/eff35k.unity3d",
+      "sha256": "6dc59fa2722d40fa95e1521850e542b76783d415089e7cb7d35169d0a01bda2d"
+    },
+    {
+      "path": "PWAAT_Data/StreamingAssets/Sound/se/wsd/se0e3.unity3d",
+      "sha256": "9f16f40bda765d4484ab9e5a7346a1c9baa7146cda6a9e710f917549cdca046a"
+    }
+  ]
+}
